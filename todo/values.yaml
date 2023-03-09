@@ -5,7 +5,7 @@ vault_url: https://kv5c6c.vault.azure.net/
 image:
   repository: mypreciousacr.azurecr.io/todo
   pullPolicy: IfNotPresent
-  tag: 51c4de6d3cd2d39cc16eb0cb2e1d61f5968defd0
+  tag: cd6d84e9a03a2071be6701e3bf6a17dab0e6e208
 
 db:
   user: master
